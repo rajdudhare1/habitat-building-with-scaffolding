@@ -14,7 +14,7 @@ pkg_origin=rab_tryhabitat
 
 # Required.
 # Sets the version of the package
-pkg_version="0.1.0"
+pkg_version="0.2.0"
 
 # Optional.
 # The name and email address of the package maintainer.
